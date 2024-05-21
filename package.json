@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "workshop express 1 correction de  chekpoint  ",
+  "main": "server.js",
+  "scripts": {
+    "test": "no",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js",
+    "route",
+    "middelwaire",
+    "public",
+    "dirname"
+  ],
+  "author": "khoubeib dellai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
